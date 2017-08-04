@@ -1,0 +1,1 @@
+INSERT into team values('JAX','Jacksonville','Jaguars');
